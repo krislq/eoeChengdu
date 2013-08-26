@@ -1,6 +1,8 @@
 eoeChengdu
 ==========
-![image](./0.同城会资料/logo.jpg)
+![image](./0.同城会资料/logo_300x300.png)
+
+![image](./0.同城会资料/flag_700x210.jpg)
 
 >eoeChengdu同城会资料。在这里你可以找到每届同城会的分享资料
 
